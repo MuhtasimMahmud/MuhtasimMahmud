@@ -1,5 +1,3 @@
-![Final Year Student in CSE and Software Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/70327178_724634621295441_6314278532792975360_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGHtRHflt60V_EjTsoMwQYTQmFzmRSzytpCYXOZFLPK2vtWp7O2P6pAojtXiWRv7_5zLZ4ZudMrxF53pohNMAcN&_nc_ohc=YzjDBqGIv1QAX8cAGyA&_nc_ht=scontent.fdac5-2.fna&oh=00_AT83gf0hyuMzYsbGFT1KT_QsWGe1ghWYPx7MNxQmm1o89Q&oe=6348B45D)
-
 ### Hi there, I'm Mahmud
 #### Final Year Student in CSE and Software Developer
 
