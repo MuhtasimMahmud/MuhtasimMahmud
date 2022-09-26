@@ -12,7 +12,6 @@ I am an enthusiastic problem solver who is in his final years of a bachelor’s 
    - ✔ Practices     :  Problem Solving, OOP,Web, Desktop and Android application development
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MuhtasimMahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhtasim-mahmud-493a571a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muhtasim.mahmud.54/)  
 
 
 
