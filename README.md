@@ -14,4 +14,4 @@ I am an enthusiastic problem solver who is in his final years of a bachelor’s 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhtasimMahmud)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhtasimMahmud&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhtasimMahmud)](https://github.com/anuraghazra/github-readme-stats)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhtasimMahmud&show_icons=true)  
