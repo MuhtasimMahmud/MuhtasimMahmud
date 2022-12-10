@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ycz6u2d658b28lf88d08yxocn2fr20i948rb7y2p&rid=giphy.gif&ct=g)](https://muhtasimmahmud.io)
+
 
 ### Hi there, I'm Mahmud
 #### Final year Undergraduate Student of Computer Science and Engineering
