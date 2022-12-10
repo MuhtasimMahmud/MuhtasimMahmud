@@ -20,3 +20,5 @@ I am an enthusiastic problem solver who is in his final years of a bachelor’s 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhtasimMahmud)  
 
+![Profile views](https://gpvc.arturio.dev/muhtasimmahmud)  
+
