@@ -1,6 +1,7 @@
 <div align="center">
 <!-- <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" align="center" style="width: 100%" /> -->
-<img src="https://blog.hyperiondev.com/wp-content/uploads/2021/01/Software_Engineering.gif" align="center" style="width: 100%; height: 250px" />
+<!-- <img src="https://blog.hyperiondev.com/wp-content/uploads/2021/01/Software_Engineering.gif" align="center" style="width: 100%; height: 250px" /> -->
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e476gjbltdjjzr669rh6y1ybzwogm5so8204obgsphn&rid=giphy.gif&ct=g" align="center" style="width: 500px; height: 250px" />
   
 </div>  
   
