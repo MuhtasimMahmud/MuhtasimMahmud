@@ -99,7 +99,7 @@ I am an enthusiastic problem solver who is in his final years of a bachelor’s 
 <img src="https://gpvc.arturio.dev/muhtasimmahmud" align="center" />
 </div>  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhtasimMahmud)  
-
 <br />
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhtasimmahmud&theme=react-dark)](https://github.com/muhtasimmahmud/github-readme-activity-graph)
 
