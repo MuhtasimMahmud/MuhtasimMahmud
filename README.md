@@ -6,7 +6,7 @@
 </div>  
   
 
-## <div align="center">Hi, I am Mahmud !</div>  
+# <div align="center">Hi, I am Mahmud !</div>  
   
 
 I am an enthusiastic problem solver who is in his final years of a bachelor’s degree in computer science and Engineering. I have been learning and practicing programming for almost 4 years and I am very passionate about all aspects of software development. Always try to learn new technologies.  
