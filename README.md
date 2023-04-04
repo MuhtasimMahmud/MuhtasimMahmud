@@ -9,7 +9,9 @@
 # <div align="center">Hi, I am Mahmud !</div>  
   
 
-I am an enthusiastic problem solver and i am in my last semester of bachelor’s degree in computer science. I have been learning and practicing programming for 4 years and I am very passionate about all aspects of software development. Always I try to learn new technologies.  
+I’m an enthusiastic problem solver with more than 4 years of experience in programming & a passion for software development. I write clear and concise code that is easy to maintain. 
+
+I’ve just one month remaining tocomplete my bachelor's degree in Computer Science. So, I am eager to bring my skills and knowledge to a challenging role in the tech industry.Always I try to learn new technologies.  
   
 
 <br/>  
