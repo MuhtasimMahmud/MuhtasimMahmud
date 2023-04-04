@@ -104,5 +104,7 @@ I am an enthusiastic problem solver and i am in my last semester of bachelor’s
 
 <br />
 
+<!-- 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhtasimmahmud&theme=react-dark)](https://github.com/muhtasimmahmud/github-readme-activity-graph)
 
+ -->
