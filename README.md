@@ -10,8 +10,7 @@
   
 
 I’m an enthusiastic problem solver with more than 4 years of experience in programming & a passion for software development. I write clear and concise code that is easy to maintain. 
-
-I’ve just one month remaining to complete my bachelor's degree in Computer Science. So, I am eager to bring my skills and knowledge to a challenging role in the tech industry.Always I try to learn new technologies.  
+I am eager to bring my skills and knowledge to a challenging role in the tech industry.Always I try to learn new technologies.  
   
 
 <br/>  
