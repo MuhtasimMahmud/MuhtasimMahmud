@@ -91,3 +91,5 @@ I am eager to bring my skills and knowledge to a challenging role in the tech in
 
  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MuhtasimMahmud)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
