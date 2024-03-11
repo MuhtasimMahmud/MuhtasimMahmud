@@ -88,18 +88,6 @@ I am eager to bring my skills and knowledge to a challenging role in the tech in
 
 ## Github Stats  
 
-</td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasimmahmud&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<img src="https://gpvc.arturio.dev/muhtasimmahmud" align="center" />
-</div>  
-
-<br />
  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MuhtasimMahmud)  
