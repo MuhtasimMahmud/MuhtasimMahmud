@@ -89,9 +89,6 @@ I am eager to bring my skills and knowledge to a challenging role in the tech in
 ## Github Stats  
 
 
- <div align="center" href="https://streak-stats.demolab.com/?user=MuhtasimMahmud">   
- </div>
- 
- <div align="center" href="https://github.com/anuraghazra/github-readme-stats"> 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhtasimMahmud)]() -->
-</div>
+![muhtasimmahmud's Stats](https://github-readme-stats.vercel.app/api?username=muhtasimmahmud&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![muhtasimmahmud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhtasimmahmud&theme=vue-dark&hide_border=true)
+![muhtasimmahmud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasimmahmud&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
