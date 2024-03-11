@@ -104,8 +104,5 @@ I am eager to bring my skills and knowledge to a challenging role in the tech in
 </div>  
 
 <br />
-
-<!-- 
+ 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhtasimmahmud&theme=react-dark)](https://github.com/muhtasimmahmud/github-readme-activity-graph)
-
- -->
