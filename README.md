@@ -90,3 +90,6 @@ I am eager to bring my skills and knowledge to a challenging role in the tech in
 
 ![muhtasimmahmud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhtasimmahmud&theme=blue-green&hide_border=true)
 ![muhtasimmahmud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasimmahmud&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+
+[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_muhtasimmahmud&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
